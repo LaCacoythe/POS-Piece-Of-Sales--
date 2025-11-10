@@ -7,7 +7,7 @@ Members:
 Inventory:
   -  Inventory
   -  Add Item
-Checkout:
+Checkout: Jansen
   -  Checkout & Print
   -  History
 Dashboard:
